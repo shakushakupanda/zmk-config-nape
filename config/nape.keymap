@@ -180,7 +180,7 @@
 
         btclr_layer {
             bindings = <
-&none  &none  &none  &bt BT_CLR  &none  &bt BT_CLR_ALL
+&none  &none  &none  &bt BT_CLR  &bt BT_CLR_ALL  &bt BT_CLR_ALL
             >;
         };
 
